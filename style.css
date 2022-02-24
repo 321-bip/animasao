@@ -10,13 +10,9 @@
     position:absolute;
     transform:translatex(-50%);
     left: 50%;
-    background-color:aquamarine;
 }
 .bebes{
-    position:absolute;
-    transform:translatex(-50%);
-    left:50%;
-    background-color: antiquewhite;
+   position:absolute;
     width:15%;
     height: 70%;
 }
